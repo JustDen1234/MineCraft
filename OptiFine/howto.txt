@@ -1,0 +1,35 @@
+https://optifine.net/downloads
+
+https://thebreakdown.xyz/how-to-download-install-optifine-in-minecraft/
+
+https://thebreakdown.xyz/how-to-download-install-the-java-se-development-kit/
+Needs java
+
+1. https://www.java.com/en/download/
+2. OptiFine_1.16.5_HD_U_G7.jar -> open with Java
+   This starts installer
+   
+3. Shaders
+    https://www.youtube.com/watch?v=sSiQ4pgi9Q0
+4. https://thebreakdown.xyz/top-5-shaders-packs-for-minecraft/ shows top 5.
+    following the tutorial (point 3), installing 
+      1. Sildur's Vibrant Shaders
+      2. Chocapic13's Shaders Pack
+   On top 5 page click green download buttons, this opens another tutorial page,
+   on that page click yellow buttons to take you to the download page of the shaders.
+5. Download 
+    from: https://www.curseforge.com/minecraft/customization/chocapic13-shaders under Minecraft 1.16: Chocopic 13 V9 (Unzip file)
+    from: https://sildurs-shaders.github.io/downloads/ download the medium and high (if high does not work, i will use medium).
+         On clicking the download, another page comes up, and you can click Skip (creating server) in the right upper corner,
+         after that, click download.
+6. Chocapic13_V9.zip => Unzip here
+
+7. Start MC with OptiFine
+   > Options > Video Settings > Shaders
+   > Open Shaders folder
+8. Drag drop shaders zip files into folder.
+
+9. In MC click (once) on shader. This will install the shader
+
+         
+    
