@@ -1,0 +1,25 @@
+Music Disks
+
+1. 13 - yellow			music_disc_13
+
+2. cat - green			music_disc_cat
+
+3. blocks - red			music_disc_blocks
+	
+4. chirp - dark red		music_disc_chirp
+
+5. far - light green		music_disc_far
+
+6. mall - purple		music_disc_mall
+
+7. mellohi - purple/white	music_disc_mellohi
+
+8. stal - black			music_disc_stal
+
+9. strad - white		music_disc_strad
+
+10. ward - green/dk green	music_disc_ward
+
+11. 11 - broken			music_disc_11
+
+12. wait - blue			music_disc_wait
